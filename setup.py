@@ -16,9 +16,4 @@ setup(
         author_email='___email___',
         description='___description___',
         keywords='___keywords___',
-        entry_points={
-            'console_scripts': [
-                '___cmd___ = ___pkg___.main:main'
-            ]
-        },
 )
